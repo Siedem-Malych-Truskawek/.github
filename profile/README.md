@@ -13,7 +13,7 @@ IBAN: LT41 3250 0894 7676 6825
 BIC: REVOLT21
 Konto (tylko przelewy krajowe): 2029 1000 0600 0000 0003 1339 92
 
-<!--
+<!--logo.webp
 
 **Here are some ideas to get you started:**
 
