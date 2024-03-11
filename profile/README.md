@@ -1,12 +1,10 @@
 ## Hi there 👋
-Mikolaj Roszak www.mikolaj.com
-Adres odbiorcy: Przedwiośnie, 79/12, 73-110, Stargard, PL
-Tel. +48 500 487 977
-Skype: mikolajroszak_1
-Zoom: Mikołaj Roszak
-email: ul.echo12@gmail.com
-REGON: 383183972
-NIP: 854-156-08-32
+REGON 383183972
+SIEDEM MAŁYCH TRUSKAWEK
+WWW.SIEDEMMALYCHTRUSKAWEK.COM
+PRZEDWIOŚNIE 79/12 73-110 STARGARD
+TEL. 48 500 487 977
+
 Finanse
 Dane konta Revolut
 IBAN: LT41 3250 0894 7676 6825
